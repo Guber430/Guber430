@@ -9,7 +9,7 @@ I'm a passionate **Computer Programming and Analysis student** at Niagara Colleg
 ### 🚀 Projects
 - **Gym Management System (C#/.NET MVC):** Developed a complete gym management application that includes user registration, membership tracking, and scheduling features.  
 - **Bitcoin Price Converter (Python):** A real-time Bitcoin to USD converter using the CoinDesk API, allowing users to convert Bitcoin amounts to their USD equivalent.  
-- **Data Analysis with Jupyter Notebooks:**  
+- **Data Analysis with Jupyter Notebook:**  
   - **ETL Projects:** Built efficient ETL pipelines to extract, transform, and load data for analysis and reporting.  
   - **Data Research:** Worked with real-world data to perform exploratory analysis, visualization, and data cleaning, improving insights and decision-making processes.
 
