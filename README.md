@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Umar Kamalitdinov
 
-I'm a passionate **Computer Programming and Analysis student** at Niagara College (Co-op), currently in my 5th semester. My expertise lies in **software development**, **data analysis**, and **project management**, with extensive experience in various programming languages and frameworks.
+I'm a passionate **Computer Programming and Analysis student** at Niagara College (Co-op). My expertise lies in **software development**, **data analysis**, and **project management**, with extensive experience in various programming languages and frameworks.
 
 ### 💻 Tech Stack
 - **Languages & Tools:** Python, C#, SQL, XAML, HTML/CSS, JavaScript  
