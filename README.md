@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I’m Umar Kamalitdinov
 
-<!--
-**Guber430/Guber430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Computer Programming and Analysis student** at Niagara College (Co-op), currently in my 4th semester. My expertise lies in **software development**, **data analysis**, and **project management**, with extensive experience in various programming languages and frameworks.
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
+- **Languages & Tools:** Python, C#, SQL, XAML, HTML/CSS, JavaScript  
+- **Frameworks & Libraries:** .NET (MVC), Pandas, Matplotlib, NumPy, SQLite, Jupyter Notebook  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- **Gym Management System (C#/.NET MVC):** Developed a complete gym management application that includes user registration, membership tracking, and scheduling features.  
+- **Bitcoin Price Converter (Python):** A real-time Bitcoin to USD converter using the CoinDesk API, allowing users to convert Bitcoin amounts to their USD equivalent.  
+- **Data Analysis with Jupyter Notebooks:**  
+  - **ETL Projects:** Built efficient ETL pipelines to extract, transform, and load data for analysis and reporting.  
+  - **Data Research:** Worked with real-world data to perform exploratory analysis, visualization, and data cleaning, improving insights and decision-making processes.
+
+### 🌱 I’m always learning
+I thrive in dynamic environments and enjoy tackling problems that require critical thinking, collaboration, and the use of innovative technologies. I am especially passionate about **data analysis**, **ETL processes**, and **building scalable solutions**.
+
+---
+
+📫 **Let’s connect:**  
+[LinkedIn](https://www.linkedin.com/in/your-link) | [Email](mailto:your-email@example.com)
