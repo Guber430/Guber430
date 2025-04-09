@@ -19,4 +19,4 @@ I thrive in dynamic environments and enjoy tackling problems that require critic
 ---
 
 📫 **Let’s connect:**  
-[LinkedIn](https://www.linkedin.com/in/your-link) | [Email](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umar-kamalitdinov-583731317/) | [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kumar1@ncstudents.niagaracollege.ca)
